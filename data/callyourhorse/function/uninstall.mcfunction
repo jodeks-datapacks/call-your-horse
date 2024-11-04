@@ -12,9 +12,7 @@ scoreboard objectives remove check.callyourhorse
 
 scoreboard objectives remove use_goat_horn 
 
-scoreboard objectives remove get_horn_to_call 
-
-scoreboard objectives remove change_goat_horn 
+scoreboard objectives remove sneak_time.callyourhorse
 
 scoreboard objectives remove store_position.callyourhorse
 
